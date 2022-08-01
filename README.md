@@ -5,8 +5,8 @@ Report for the D3.4 deliverable ("Populated database - Enhancement of demonstrat
 ## What will I find in this repository?
 
 - the report
-  - as [PDF](Deliverable%203.4%20report%20WMDE_FHG_WIF_April_ 2022.pdf)
-  - as its [source file](Deliverable%203.4%20report%20WMDE_FHG_WIF_April_ 2022.docx)
+  - as [PDF](Deliverable%203.4%20report%20WMDE_FHG_WIF_April_%202022.pdf)
+  - as its [source file](Deliverable%203.4%20report%20WMDE_FHG_WIF_April_%202022.docx)
 - raw data used for this report (`raw data`)
 - appended documents mentioned in the report
 - the licensing terms for this repository (free/open source, permissive) ([CC-BY-4.0](LICENSE))
